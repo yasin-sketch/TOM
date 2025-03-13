@@ -30,7 +30,7 @@ module.exports.onStart = async ({ api, event }) => {
     const pingStart = Date.now();
     const ping = Date.now() - pingStart;
 
-    const message = `✨ *System Uptime* ✨\n${uptimeString}\n\n🗄️ *Disk Information* 🗄️\n${diskString}\n\n🌐 *Ping* 🌐\n${ping} ms\n\n👨‍💻 Created by: Nyx||`;
+    const message = `✨ *System Uptime* ✨\n${uptimeString}\n\n🗄️ *Disk Information* 🗄️\n${diskString}\n\n🌐 *Ping* 🌐\n${ping} ms\n\n👨‍💻 Created by: Mohammad Rexy ||`;
 
     api.sendMessage(message, event.threadID, event.messageID);
 
