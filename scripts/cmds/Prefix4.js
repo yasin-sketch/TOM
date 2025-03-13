@@ -20,7 +20,7 @@ module.exports = {
 💬 **Need Help?**  
 👉 Feel free to ask!  
 
-🚀 Have a great day!\n Creator: https://www.facebook.com/share/19jKp8u7th/`, attachment: await global.utils.getStreamFromURL("https://i.imgur.com/fFnrAk7.jpeg"),
+🚀 Have a great day!\n Creator: https://www.facebook.com/share/19jKp8u7th/`, attachment: await global.utils.getStreamFromURL("https://i.imgur.com/k7zJNFV.mp4"),
      });
    }
  }
