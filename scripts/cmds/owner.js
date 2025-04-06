@@ -30,7 +30,7 @@ module.exports = {
 				Height: '5"5'
 			};
 
-			const bold = 'https://i.imgur.com/DpMSasE.mp4';
+			const bold = '';
 			const tmpFolderPath = path.join(__dirname, 'tmp');
 
 			if (!fs.existsSync(tmpFolderPath)) {
