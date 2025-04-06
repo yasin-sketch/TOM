@@ -18,16 +18,16 @@ module.exports = {
 	onStart: async function ({ api, event }) {
 		try {
 			const ownerInfo = {
-				name: '𝙈𝙤𝙝𝙖𝙢𝙢𝙖𝙙 𝙍𝙚𝙭𝙮 ',
-				class: '𝘾𝙡𝙖𝙨𝙨 9 ',
+				name: '𝙍𝙄𝙁𝘼𝙏 𝙅𝘼𝙈𝙄𝙇 ',
+				class: '𝘾𝙡𝙖𝙨𝙨 10 ',
 				group: '𝑺𝑪𝑰𝑬𝑵𝑪𝑬',
 				gender: '𝑴𝑨𝑳𝑬',
-				Birthday: '18-12-2009',
+				Birthday: '23 November',
 				religion: '𝑰𝑺𝑳𝑨𝑴',
 				hobby: '𝑭𝒍𝒊𝒓𝒕𝒊𝒏𝒈 😁',
-				Fb: 'https://www.facebook.com/share/166VHaYd36/',
-				Relationship: '𝙨𝙞𝙣𝙜𝙡𝙚 + 𝙢𝙞𝙣𝙜𝙡𝙚 ',
-				Height: '5"7'
+				Fb: 'https://www.facebook.com/rifat5xr',
+				Relationship: '𝙨𝙞𝙣𝙜𝙡𝙚 ',
+				Height: '5"5'
 			};
 
 			const bold = 'https://i.imgur.com/DpMSasE.mp4';
