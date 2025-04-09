@@ -18,15 +18,15 @@
   },
   "adminBot": [
     "61559427406776",
-
+    ""
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [61559427406776],
+    "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "𝙃ō𝙩𝙖𝙧ō 𝙊𝙧𝙚𝙠𝙞🕸️",
-  "prefix": "-",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -37,10 +37,10 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "s.khasanmahamud324@gmail.com",
-      "clientId": "1038587958316-ugoqskt5s8itgca98ahjulp4691lhd9v.apps.googleusercontent.com",
-      "clientSecret": "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",
-      "refreshToken": "1//04ra2waD4ABt3CgYIARAAGAQSNgF-L9IrYkOHdKbzJwt5kMXGWgdKgc2aF3CxAdJ96G-113vAhZZR2L1fFuzCVslX_QvBGv2R0w",
+      "email": "vexaryan@gmail.com",
+      "clientId": "695328982889-v1t85ej9aq1fvv0n4alp7rcbea9gkgvf.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04EyH1gbNUVv5CgYIARAAGAQSNwF-L9IrqcPCQD2QsuhCQ2XprHCTMrTnVPI6WvT9i73nnoi4XqfAD0_yDoGW_gtWUdIeVtANzao",
       "apiKey": ""
     },
     "gRecaptcha": {
